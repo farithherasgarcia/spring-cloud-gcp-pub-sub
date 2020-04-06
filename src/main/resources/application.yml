@@ -1,0 +1,6 @@
+
+app:
+  pubs:
+    subscriptionName: my-subscription
+  subs:
+    topicName: poc_comm_topic
